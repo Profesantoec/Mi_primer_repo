@@ -7,4 +7,4 @@ Este es mi primer repositorio usando Git y GitHub.
 - Prácticas de programación
 
 ## Autor
-Profesanto
+Santiago Moreno
